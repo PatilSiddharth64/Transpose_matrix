@@ -1,2 +1,2 @@
 # Transpose_matrix
-A simple py code to transpose a matrix 
+A simple py code to transpose a matrix using numpy
